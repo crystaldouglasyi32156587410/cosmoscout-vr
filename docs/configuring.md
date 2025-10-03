@@ -1145,3 +1145,4 @@ Please include a description for each parameter and the BRDF overall, and a refe
   <img src="img/nav-vspace.svg" />
   <a href="contributing.md">Contributing Guides &rsaquo;</a>
 </p>
+<!-- Auto-update: 2025-10-03T14:12:19.343195 -->
