@@ -24,3 +24,5 @@ This plugin can be enabled with the following configuration in your `settings.js
 ```
 
 **More in-depth information and some tutorials will be provided soon.**
+
+<!-- Auto-update: 2025-10-07T02:36:36.128813 -->
